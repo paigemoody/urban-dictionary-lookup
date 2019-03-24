@@ -20,7 +20,7 @@ This cli takes a user-input word and returns the word's top definition from [Urb
 
 ## How `prominence score` works
 
-I added in the idea of prominence score to help highlight the obscurity of the looked-up word. The idea is that if few people have reacted positively to a word, it's probably very uncommonly known or used, therefor not worth learning.
+I added in the idea of prominence score to help highlight the obscurity of the looked-up word. The idea is that if few people have reacted positively to a word, it's probably uncommonly known or used, therefor not worth learning.
 
 **High prominence:** more than 1000 thumbs up for the top definition. <br>
 **Medium prominence:** between 300 and 1000 thumbs up for the top definition. <br>
