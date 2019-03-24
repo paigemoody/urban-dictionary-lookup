@@ -3,7 +3,7 @@
 
 # urban-dictionary-lookup cli
 
-This cli takes a user-input word and returns the word's top definition from [Urban Dictionary](https://www.urbandictionary.com/), as well as aword prominence score. Data gathering happens through scraping the crowd-sourced Urban Dictionary website.
+This cli takes a user-input word and returns the word's top definition from [Urban Dictionary](https://www.urbandictionary.com/), as well as a word prominence score. Data gathering happens through scraping the crowd-sourced Urban Dictionary website.
 
 *Note: look up words at your own risk. This tool was developed for friends for whom English is their second language in order to provide a quick way to look up new slag :)*
 
